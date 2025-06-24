@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **EleMisi/EleMisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Eleonora (she/her)  👋
+
+I'm an AI Engineer with a Ph.D. in Computer Science, passionate about building robust and ethical AI systems from research to production. My expertise lies in Large Language Models (LLMs), knowledge-driven AI, and applied machine learning for real-world impact.
+
+Currently, I'm an AI Engineer at Musixmatch, leading the development of production AI systems.
+
+---
+
+### 🚀 My Expertise
+
+* **Programming Languages:** Python, C++
+* **AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
+* **Tools & Platforms:** Docker, Git, Redis, LLM APIs
+* **Specialties:** LLM Integration, Knowledge-Driven AI, Production ML Systems
+
+---
+
+### 💡 My Approach to AI Engineering
+
+As a former scout, I live by the motto: "There's no such thing as bad weather, only unsuitable clothing." I believe this mindset is crucial in AI: success hinges on robust preparation, adapting to challenges, and ensuring we have the right tools and strategies to tackle complex problems. This guides my focus on building resilient and adaptable systems.
+
+---
+
+### 🌸 Beyond the Code
+
+When I'm not developing AI solutions, you can find me:
+
+* Strategizing over a **board game** ♟️
+* Tending to my **plants** 🌿
+* Exploring new trails while **trekking** ⛰️
+
+---
+
+### 💬 Let's Connect!
+
+* LinkedIn: [https://www.linkedin.com/in/eleonora-misino/](https://www.linkedin.com/in/eleonora-misino/)
+* Email: eleonora.misino@gmail.com
+
+---
