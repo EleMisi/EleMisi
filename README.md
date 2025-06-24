@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Eleonora (she/her)  👋
 
-I'm an AI Engineer with a Ph.D. in Computer Science, passionate about building robust and ethical AI systems from research to production. My expertise lies in Large Language Models (LLMs), knowledge-driven AI, and applied machine learning for real-world impact.
+I’m an AI Engineer with a Ph.D. in Computer Science, passionate about building robust AI systems from research to production. My expertise lies in Large Language Models (LLMs), knowledge-driven AI, and applied machine learning for real-world impact.
 
-Currently, I'm an AI Engineer at Musixmatch, leading the development of production AI systems.
+Currently, I’m an AI Engineer at Musixmatch, leading the development of production AI systems by seamlessly integrating LLM-based components and custom SDKs. I focus on transforming research problems into production-ready solutions, owning end-to-end architecture (UI, data, inference), and collaborating closely with domain experts on cross-functional projects.
 
 ---
 
