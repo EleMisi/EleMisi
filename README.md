@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 I’m an AI Engineer with a Ph.D. in Computer Science, passionate about building robust AI systems from research to production. My expertise lies in Large Language Models (LLMs), knowledge-driven AI, and applied machine learning for real-world impact.
 
-Currently, I’m an AI Engineer at Musixmatch, leading the development of production AI systems by seamlessly integrating LLM-based components and custom SDKs. I focus on transforming research problems into production-ready solutions, owning end-to-end architecture (UI, data, inference), and collaborating closely with domain experts on cross-functional projects.
+Currently, at Musixmatch, I’m leading the development of production AI systems by seamlessly integrating LLM-based components and custom SDKs. I focus on transforming research problems into production-ready solutions, owning end-to-end architecture (UI, data, inference), and collaborating closely with domain experts on cross-functional projects.
 
 ---
 
 ### 🚀 My Expertise
 
-* **Programming Languages:** Python, C++
+* **Programming Languages:** Python (primary), C++
 * **AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
 * **Tools & Platforms:** Docker, Git, Redis, LLM APIs
 * **Specialties:** LLM Integration, Knowledge-Driven AI, Production ML Systems
