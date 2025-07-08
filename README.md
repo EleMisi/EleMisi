@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Eleonora (she/her)  👋
+### Hi, I'm Eleonora (she/her) 🌸
 
-I’m an AI Engineer with a Ph.D. in Computer Science, passionate about building robust AI systems from research to production. My expertise lies in Large Language Models (LLMs), knowledge-driven AI, and applied machine learning for real-world impact.
+I’m a Data Scientist with a Ph.D. in Computer Science, passionate about building robust AI systems from research to production.
 
-Currently, at Musixmatch, I’m leading the development of production AI systems by seamlessly integrating LLM-based components and custom SDKs. I focus on transforming research problems into production-ready solutions, owning end-to-end architecture (UI, data, inference), and collaborating closely with domain experts on cross-functional projects.
+My expertise combines deep AI research, especially domain-informed AI models, with hands-on deployment. I enjoy working in cross-functional teams, collaborating with domain experts, and leading full-cycle development of AI systems from research to production. 
 
 ---
 
@@ -29,28 +29,11 @@ Currently, at Musixmatch, I’m leading the development of production AI systems
 * **AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
 * **Tools & Platforms:** Docker, Git, Redis, LLM APIs
 * **Specialties:** LLM Integration, Knowledge-Driven AI, Production ML Systems
-
----
-
-### 💡 My Approach to AI Engineering
-
-As a former scout, I live by the motto: "There's no such thing as bad weather, only unsuitable clothing." I believe this mindset is crucial in AI: success hinges on robust preparation, adapting to challenges, and ensuring we have the right tools and strategies to tackle complex problems. This guides my focus on building resilient and adaptable systems.
-
----
-
-### 🌸 Beyond the Code
-
-When I'm not developing AI solutions, you can find me:
-
-* Strategizing over a **board game** ♟️
-* Tending to my **plants** 🌿
-* Exploring new trails while **trekking** ⛰️
-
 ---
 
 ### 💬 Let's Connect!
 
-* LinkedIn: [https://www.linkedin.com/in/eleonora-misino/](https://www.linkedin.com/in/eleonora-misino/)
+* LinkedIn: [https://www.linkedin.com/in/eleonora-misino/](https://www.linkedin.com/in/eleonora-misino/?locale=en_US)
 * Email: eleonora.misino@gmail.com
 
 ---
